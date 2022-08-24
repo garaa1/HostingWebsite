@@ -88,3 +88,11 @@ li:hover{
 .adpp{
     font-size: 20px;
 }
+.ourOffer{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
