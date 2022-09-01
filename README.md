@@ -1,2 +1,2 @@
 # HostingWebsite
-<a>githosting.netlify.app</a>
+[a link](https://githosting.netlify.app/)
